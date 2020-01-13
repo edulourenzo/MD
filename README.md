@@ -5,9 +5,9 @@ Teste e aprendizagem de MakeDown
 
 [Pular](#1-titulo)
 
-[1. Introução](#titulo)
-[1. Abordagem](#sub)
-[1. Estrutura de dados](#texto)
+1. [Introução](#titulo)
+1. [Abordagem](#sub)
+1. [Estrutura de dados](#texto)
 1. Cáculos
 5. etc
 
