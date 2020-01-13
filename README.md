@@ -17,6 +17,6 @@ Teste e aprendizagem de MakeDown
 
 ![GIF](https://media.giphy.com/media/rutTKcoKSCSYM/giphy.gif)
 
-## 1. Titulo
-## 1. Sub
-## 1. Texto
+1. ## Titulo
+1. ### Sub
+1. #### Texto
