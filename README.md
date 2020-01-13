@@ -3,7 +3,7 @@ Teste e aprendizagem de MakeDown
 
 # Torre de Hanói (Tower of Hanoi)
 
-[Pular](#titulo)
+[Pular](#1-titulo)
 
 1. Introução
 2. Abordagem
