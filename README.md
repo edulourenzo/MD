@@ -6,9 +6,9 @@ Teste e aprendizagem de MakeDown
 [Pular](#1-titulo)
 
 1. Introução
-2. Abordagem
-3. Estrutura de dados
-4. Cáculos
+1. Abordagem
+1. Estrutura de dados
+1. Cáculos
 5. etc
 
 ## 1. INTRODUÇÂO
